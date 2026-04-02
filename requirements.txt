@@ -1,9 +1,9 @@
-fastapi
-uvicorn
-python-multipart
-opencv-python-headless
-pytesseract
-psycopg2-binary
-groq
 streamlit
-requests
+easyocr
+numpy
+opencv-python-headless
+groq
+psycopg2-binary
+python-dotenv
+torch
+torchvision
