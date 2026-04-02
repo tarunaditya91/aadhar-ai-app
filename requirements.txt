@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+pytesseract
+psycopg2-binary
+groq
+streamlit
+requests
